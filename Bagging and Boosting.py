@@ -12,6 +12,7 @@ import os
 import warnings
 warnings.filterwarnings("ignore")
 import datetime
+import subprocess
 
 # ## 1.1 Read the Dataset and doing Descriptive stats.
 
